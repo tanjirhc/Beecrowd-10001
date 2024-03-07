@@ -11,7 +11,7 @@ namespace Beecrowd_10001
         static void Main(string[] args)
         {
             int x;
-            int a, b;
+            int a = Convert.ToInt32(Console.ReadLine());
 
         }
     }
